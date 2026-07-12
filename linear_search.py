@@ -1,0 +1,11 @@
+def linear_search(data, target):
+    for index, value in enumerate(data):
+        if value == target:
+            return index
+    return -1
+
+# Insert data.
+data = []
+target = 
+result = linear_search(data, target)
+print(result)
