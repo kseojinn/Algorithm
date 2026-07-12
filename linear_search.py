@@ -4,7 +4,7 @@ def linear_search(data, target):
             return index
     return -1
 
-# Insert data.
+# Input data.
 data = []
 target = 
 result = linear_search(data, target)

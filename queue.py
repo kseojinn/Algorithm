@@ -16,7 +16,7 @@ class Queue:
     
 queue = Queue()
 
-# Insert data.
+# Input data.
 queue.load([])
 
 while not queue.is_empty():

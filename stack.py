@@ -22,7 +22,7 @@ class Stack:
     
 stack = Stack()
 
-# Insert data.
+# Input data.
 stack.load([])
 
 while not stack.is_empty():

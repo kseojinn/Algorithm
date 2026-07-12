@@ -11,7 +11,7 @@ def binary_search(data, target):
     return -1
 
 # The data must be sorted in ascending order.
-# Insert data.
+# Input data.
 data = []
 target =
 result = binary_search(data, target)
