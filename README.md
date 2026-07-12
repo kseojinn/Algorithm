@@ -1,5 +1,5 @@
 # Implementing the Algorithms in Code
----
+
 ## 1. Searching
 
 - Linear Search
